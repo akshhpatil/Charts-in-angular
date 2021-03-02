@@ -1,0 +1,15 @@
+.new{
+    position: relative;
+    left: 10%;
+}
+
+#chart{
+    position: relative;
+    margin-left: 30%;
+}
+
+.two{
+    position: relative;
+    left: 60%;
+    margin-top:-30%;
+}
