@@ -37,12 +37,12 @@ export class HomeComponent implements OnInit {
              {  
                data: this.number,  
                borderColor: 'red',  
-              // backgroundColor: "#0000FF",  
+            
              },
              {  
                data: this.num,  
                borderColor: 'yellow',  
-              // backgroundColor: "black",  
+             
              }  
            ]  
          },  
