@@ -1,3 +1,5 @@
+![Screenshot (70)](https://user-images.githubusercontent.com/76992034/125314661-05438080-e354-11eb-9d56-cda6bdf54046.png)
+
 # Charts
 
 in this demo linechart, piechar ,barchart are made by feching data from mysql database
