@@ -1,5 +1,10 @@
 ![Screenshot (70)](https://user-images.githubusercontent.com/76992034/125314661-05438080-e354-11eb-9d56-cda6bdf54046.png)
 
+![Fig15](https://user-images.githubusercontent.com/76992034/128666123-90f23f5b-2abb-41ff-ba42-ac32184b06e4.png)
+![Fig16](https://user-images.githubusercontent.com/76992034/128666129-4ff64c53-2dbb-4470-9846-6f1429d5cc60.png)
+![Fig14](https://user-images.githubusercontent.com/76992034/128666131-399dc3e9-31b6-4673-ac69-f3b4a2db60de.png)
+
+
 # Charts
 
 in this demo linechart, piechar ,barchart are made by feching data from mysql database
